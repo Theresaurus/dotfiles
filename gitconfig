@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = theresehempel@web.de
+	name = Therese Hempel
